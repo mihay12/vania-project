@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+footer div a img{
+    width: 2rem;
+}

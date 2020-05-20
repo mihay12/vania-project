@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p, span, a, body{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 980px;
+    margin: auto;
+}
+
+div.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div.container img{
+    width: 100%;
+    margin-top: 5%;
+}
+
+div.container p{
+    margin: 20px;
+}
